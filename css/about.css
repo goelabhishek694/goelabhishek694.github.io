@@ -8,7 +8,6 @@ body-mission {
 	font-family: 'Raleway', sans-serif;
 }
 .flex-container-mission {
-	position: absolute;
 	height: 100vh;
 	width: 100%;
 	display: -webkit-flex; /* Safari */

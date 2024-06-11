@@ -43,7 +43,7 @@
 
       if (title) {
         title.style.transform = "rotate(90deg)";
-        title.style.top = "15%";
+        title.style.top = "20%";
       }
       if (about) {
         about.style.opacity = "0";
